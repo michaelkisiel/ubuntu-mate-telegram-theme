@@ -10,10 +10,6 @@ A telegram desktop theme in Ubuntu MATE design pattern. It fits perfectly into y
 
 But here's also an official Telegram Support guide on how to edit and install Telegram Desktop themes: http://telegra.ph/Create-Telegram-Theme-01-12.
 
-### Contact
-Just send me [@droopymccool](https://t.me/droopymccool) a message in telegram. :wink:
-Join [@UbuntuThemesChannel](https://t.me/UbuntuThemesChannel) for instant news and notifications about changes in the theme.
-
 ### Screenshots
 ![](UbuntuMATEScreenshot.png)
 ![](ubuntu-mate-telegram-theme.png)
